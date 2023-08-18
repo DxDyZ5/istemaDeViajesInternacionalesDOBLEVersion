@@ -1,0 +1,72 @@
+[
+  {
+    "Nombre": "George",
+    "Apellido": "Perez",
+    "Edad": 30,
+    "Genero": "Masculino",
+    "Email": "mimiola0808@gmail.com"
+  },
+  {
+    "Nombre": "Jeremy",
+    "Apellido": "Tomas",
+    "Edad": 25,
+    "Genero": "Femenino",
+    "Email": "jeremytomas14@gmail.com"
+  },
+  {
+    "Nombre": "Raeneiry",
+    "Apellido": "Pena",
+    "Edad": 45,
+    "Genero": "Masculino",
+    "Email": "gagox75@gmail.com"
+  },
+  {
+    "Nombre": "Elliot",
+    "Apellido": "Reyes",
+    "Edad": 22,
+    "Genero": "Masculino",
+    "Email": "eliottreyes22@gmail.com"
+  },
+  {
+    "Nombre": "Jullisa",
+    "Apellido": "Jimenez",
+    "Edad": 33,
+    "Genero": "Femenino",
+    "Email": "Sbets6424@gmail.com"
+  },
+  {
+    "Nombre": "Jumairis",
+    "Apellido": "Rodriguez",
+    "Edad": 28,
+    "Genero": "Femenino",
+    "Email": "valdezjumairis@gmail.com"
+  },
+  {
+    "Nombre": "Maria",
+    "Apellido": "Trinidad",
+    "Edad": 37,
+    "Genero": "Femenino",
+    "Email": "tritineo15@gmail.com"
+  },
+  {
+    "Nombre": "Leonardo",
+    "Apellido": "Rodriguez",
+    "Edad": 29,
+    "Genero": "Masculino",
+    "Email": "rafaelleonardomartinezsoto@gmail.com"
+  },
+  {
+    "Nombre": "Abraham",
+    "Apellido": "Vazquez",
+    "Edad": 31,
+    "Genero": "Masculino",
+    "Email": "Abrahamismael267@gmail.con"
+  },
+  {
+    "Nombre": "Luis",
+    "Apellido": "Rosario",
+    "Edad": 26,
+    "Genero": "Masculino",
+    "Email": "Rosarioenrique.torres@gmail.com"
+  }
+]

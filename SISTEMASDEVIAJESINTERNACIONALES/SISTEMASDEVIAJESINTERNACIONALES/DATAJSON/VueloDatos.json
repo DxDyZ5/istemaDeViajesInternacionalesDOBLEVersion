@@ -1,0 +1,47 @@
+[
+  {
+    "IDvuelo": 1,
+    "Origen": "Rio de Janeiro",
+    "Destino": "Nueva York",
+    "FechaSalida": "2023-06-01T00:00:00",
+    "FechaRegreso": "2023-06-10T00:00:00",
+    "AsientosDisponibles": 10,
+    "Precio": 200
+  },
+  {
+    "IDvuelo": 2,
+    "Origen": "Roma",
+    "Destino": "Dubai",
+    "FechaSalida": "2023-07-02T00:00:00",
+    "FechaRegreso": "2023-07-09T00:00:00",
+    "AsientosDisponibles": 5,
+    "Precio": 300
+  },
+  {
+    "IDvuelo": 3,
+    "Origen": "Londres",
+    "Destino": "Tokio",
+    "FechaSalida": "2023-08-03T00:00:00",
+    "FechaRegreso": "2023-08-12T00:00:00",
+    "AsientosDisponibles": 8,
+    "Precio": 220
+  },
+  {
+    "IDvuelo": 4,
+    "Origen": "Paris",
+    "Destino": "Ciudad de Mexico",
+    "FechaSalida": "2023-09-04T00:00:00",
+    "FechaRegreso": "2023-09-11T00:00:00",
+    "AsientosDisponibles": 12,
+    "Precio": 180
+  },
+  {
+    "IDvuelo": 5,
+    "Origen": "Moscu",
+    "Destino": "Sidney",
+    "FechaSalida": "2023-10-05T00:00:00",
+    "FechaRegreso": "2023-10-15T00:00:00",
+    "AsientosDisponibles": 6,
+    "Precio": 250
+  }
+]

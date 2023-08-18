@@ -1,0 +1,32 @@
+[
+  {
+    "IDhotel": 1,
+    "Nombre": "Hotel Estrella del Mar",
+    "Ubicacion": "Miami, Estados Unidos",
+    "Disponibilidad": true
+  },
+  {
+    "IDhotel": 2,
+    "Nombre": "Hotel Sol Marino",
+    "Ubicacion": "Playa del Sol, Bahamas",
+    "Disponibilidad": true
+  },
+  {
+    "IDhotel": 3,
+    "Nombre": "Hotel Oasis Tropical",
+    "Ubicacion": "Cancun, Mexico",
+    "Disponibilidad": true
+  },
+  {
+    "IDhotel": 4,
+    "Nombre": "Hotel Ciudad Historica",
+    "Ubicacion": "Roma, Italia",
+    "Disponibilidad": true
+  },
+  {
+    "IDhotel": 5,
+    "Nombre": "Hotel Gran Metropoli",
+    "Ubicacion": "Londres, Reino Unido",
+    "Disponibilidad": true
+  }
+]

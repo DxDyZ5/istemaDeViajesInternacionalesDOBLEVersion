@@ -1,0 +1,57 @@
+[
+  {
+    "CarroId": 1,
+    "Marca": "Toyota",
+    "Modelo": "Camry",
+    "Anio": 2020,
+    "Tipo": "Sedan",
+    "CapacidadPasajeros": 5,
+    "Transmision": "Automatica",
+    "PrecioPorDia": 50.99,
+    "Ubicacion": "Miami"
+  },
+  {
+    "CarroId": 2,
+    "Marca": "Ford",
+    "Modelo": "Mustang",
+    "Anio": 2022,
+    "Tipo": "Deportivo",
+    "CapacidadPasajeros": 4,
+    "Transmision": "Manual",
+    "PrecioPorDia": 99.99,
+    "Ubicacion": "Los Angeles"
+  },
+  {
+    "CarroId": 3,
+    "Marca": "Chevrolet",
+    "Modelo": "Suburban",
+    "Anio": 2021,
+    "Tipo": "SUV",
+    "CapacidadPasajeros": 8,
+    "Transmision": "Automatica",
+    "PrecioPorDia": 89.99,
+    "Ubicacion": "Orlando"
+  },
+  {
+    "CarroId": 4,
+    "Marca": "Nissan",
+    "Modelo": "Sentra",
+    "Anio": 2019,
+    "Tipo": "Sedan",
+    "CapacidadPasajeros": 5,
+    "Transmision": "Automatica",
+    "PrecioPorDia": 45.99,
+    "Ubicacion": "New York"
+  },
+  {
+    "CarroId": 5,
+    "Marca": "Honda",
+    "Modelo": "CR-V",
+    "Anio": 2020,
+    "Tipo": "SUV",
+    "CapacidadPasajeros": 5,
+    "Transmision": "Automatica",
+    "PrecioPorDia": 55.99,
+    "Ubicacion": "San Francisco"
+  }
+]

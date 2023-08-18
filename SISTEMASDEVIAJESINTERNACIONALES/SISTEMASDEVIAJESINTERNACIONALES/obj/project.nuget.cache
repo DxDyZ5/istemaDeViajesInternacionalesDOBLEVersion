@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0VljwZ1eqh0I/xQ7AVd6WvQxlUU6nSSHiaCbdgT3VNLknJX89FbYC8ho1kWNqrndEzIUc2+3sVkXrSyTl86Mrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\manue\\source\\repos\\SISTEMASDEVIAJESINTERNACIONALES\\SISTEMASDEVIAJESINTERNACIONALES\\SISTEMASDEVIAJESINTERNACIONALES.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manue\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\manue\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\manue\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\manue\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\manue\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\manue\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
